@@ -1,0 +1,24 @@
+{
+  "name": "MWHS Hospital Services",
+  "short_name": "MWHS Business",
+  "description": "Manufacturers & Exporters of Medical Gas Pipeline Systems (MGPS), Modular Operation Theatres, Hospital Furniture and CSSD Equipment.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0284c7",
+  "orientation": "portrait-primary",
+  "categories": ["medical", "business", "productivity"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

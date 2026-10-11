@@ -1,0 +1,7 @@
+{
+  "name": "MWHS Business App",
+  "description": "Enterprise portal & turnkey project configurator for Medical Gas Pipeline Systems (MGPS), Modular Operation Theatres, Hospital Furniture, and CSSD Equipment.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
